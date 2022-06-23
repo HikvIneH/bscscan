@@ -1,0 +1,19 @@
+{
+  "name": "bscscan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.5.1",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
